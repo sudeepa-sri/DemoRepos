@@ -35,7 +35,7 @@ pipeline {
 		//def scannerHome = tool 'SonarQubeScanner';
 		// agent { label "docker" } 
 		//steps {
-			sh "echo to be implemented" 
+			//sh "echo to be implemented" 
 			//withSonarQubeEnv("SonarServer") {
 			//sh "/home/sidkalpop/scanner/bin/sonar-scanner"
 			//sh "echo to be implemented"
